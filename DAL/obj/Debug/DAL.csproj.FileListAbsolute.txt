@@ -1,0 +1,47 @@
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\DAL\bin\Debug\DAL.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\DAL\obj\Debug\DAL.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\DAL\obj\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\DAL\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\DAL\obj\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\DAL\obj\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\DAL\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\DAL\obj\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\DAL\obj\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\DAL\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\DAL\obj\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\DAL\obj\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\DAL\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\DAL\obj\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\DAL\obj\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\DAL\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\DAL\obj\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\DAL\obj\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\DAL\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\DAL\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\DAL\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\DAL\obj\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\DAL\obj\Debug\DAL.pdb

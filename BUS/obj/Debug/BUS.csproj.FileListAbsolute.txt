@@ -1,0 +1,70 @@
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\bin\Debug\BUS.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\bin\Debug\BUS.pdb
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\bin\Debug\DAL.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\bin\Debug\DAL.pdb
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\bin\Debug\DAL.dll.config
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\obj\Debug\BUS.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\BUS\obj\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\obj\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\BUS\obj\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\obj\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\BUS\obj\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\obj\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\BUS\obj\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\obj\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\BUS\obj\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Debug\BUS.pdb

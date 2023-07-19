@@ -1,0 +1,281 @@
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.exe.config
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.exe
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.pdb
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\BUS.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DAL.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\BUS.pdb
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DAL.pdb
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DAL.dll.config
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ChiPhi.frmChiPhi.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.frmShowDetail.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmShow.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmTarget.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmThongTinShow.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Main.frmMain.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Properties.Resources.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Style.frmStyle.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Style.frmStyleHandle.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmChuyen.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmXuong.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmXuongHandle.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.GenerateResource.cache
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.exe.licenses
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.CopyComplete
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.exe
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.pdb
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.CoreCompileInputs.cache
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.Desktop.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Images.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Office.v21.2.Core.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v21.2.Core.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Printing.v21.2.Core.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.RichEdit.v21.2.Core.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Utils.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraBars.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraEditors.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraGrid.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraLayout.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraPrinting.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraRichEdit.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v21.2.Drawing.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Sparkline.v21.2.Core.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraTreeList.v21.2.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Office.v21.2.Core.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v21.2.Core.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Printing.v21.2.Core.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.RichEdit.v21.2.Core.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.Desktop.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Utils.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraBars.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraEditors.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraGrid.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraLayout.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraPrinting.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraRichEdit.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v21.2.Drawing.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Sparkline.v21.2.Core.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraTreeList.v21.2.xml
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.Data.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.Data.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.Data.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.Data.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.Office.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.Office.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.Office.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.Office.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.Utils.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.Utils.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.Utils.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.Utils.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.XtraGrid.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.XtraGrid.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.XtraGrid.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.XtraGrid.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.XtraLayout.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.XtraLayout.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.XtraLayout.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.XtraLayout.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.XtraRichEdit.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\de\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\es\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\bin\Release\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+E:\Project\Winform\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Release\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Report.frmChiPhiReport.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Report.frmDoanhThuReport.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Report.frmShowDetailLine.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Report.frmStyleReport.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Release\QLDoanhThu.Report.frmBaoCao.resources

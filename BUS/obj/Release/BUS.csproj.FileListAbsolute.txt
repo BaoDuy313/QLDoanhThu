@@ -1,0 +1,30 @@
+E:\Project\Winform\QLDoanhThu\BUS\bin\Release\BUS.dll
+E:\Project\Winform\QLDoanhThu\BUS\bin\Release\BUS.pdb
+E:\Project\Winform\QLDoanhThu\BUS\bin\Release\DAL.dll
+E:\Project\Winform\QLDoanhThu\BUS\bin\Release\DAL.pdb
+E:\Project\Winform\QLDoanhThu\BUS\bin\Release\DAL.dll.config
+E:\Project\Winform\QLDoanhThu\BUS\obj\Release\BUS.csproj.CopyComplete
+E:\Project\Winform\QLDoanhThu\BUS\obj\Release\BUS.dll
+E:\Project\Winform\QLDoanhThu\BUS\obj\Release\BUS.pdb
+E:\Project\Winform\QLDoanhThu\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+E:\Project\Winform\QLDoanhThu\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Release\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Release\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Release\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Release\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\bin\Release\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Release\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\BUS\obj\Release\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Release\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Release\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Release\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Release\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\bin\Release\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Release\BUS.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Release\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\BUS\obj\Release\BUS.pdb

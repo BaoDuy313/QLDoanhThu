@@ -1,0 +1,501 @@
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe.config
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.pdb
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.pdb
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll.config
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe.licenses
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe
+C:\Users\duyru\Documents\GitHub\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Xuong\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\BackUp\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QuanLy\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Images.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\BUS.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DAL.dll.config
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Office.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Utils.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraBars.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.AssemblyReference.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhi.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ChiPhi.frmChiPhiHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThu.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuGioEdit.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmDoanhThuHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.DoanhThu.frmXacNhanXoa.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.frmShowDetail.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmHienThiChiTietDT.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmTarget.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.HienThi.frmThongTinShow.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Main.frmMain.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Properties.Resources.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Style.frmStyleHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyen.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmChuyenHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuong.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.ThongTin.frmXuongHandle.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.GenerateResource.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe.licenses
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CoreCompileInputs.cache
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.csproj.CopyComplete
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.exe
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.pdb
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Report.frmShowDetailLine.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Report.frmChiPhiReport.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Report.frmDoanhThuReport.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Report.frmStyleReport.resources
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\cs\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\de\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\es\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\fr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\it\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\ja\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\ko\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\pl\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\pt-BR\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\ru\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\tr\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\zh-Hans\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\bin\Debug\zh-Hant\Microsoft.QualityTools.Testing.Fakes.resources.dll
+C:\Users\duyru\Desktop\Hoc tap\DevEpress_test\E_Land_Project\Test_Set_Up_E_Land\QLDoanhThu\QLDoanhThu\obj\Debug\QLDoanhThu.Report.frmBaoCao.resources

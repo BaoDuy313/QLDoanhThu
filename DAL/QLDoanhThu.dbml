@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QuanLyDoanhThu" Class="QLDoanhThuDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=172.26.0.9,2010;Initial Catalog=QuanLyDoanhThu;User ID=sa;TrustServerCertificate=True" SettingsObjectName="DAL.Properties.Settings" SettingsPropertyName="QuanLyDoanhThuConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Account" Member="Accounts">
+    <Type Name="Account">
+      <Column Name="UserName" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Style" Member="Styles">
+    <Type Name="Style">
+      <Column Name="ID" Type="System.String" DbType="VarChar(20) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DonGia" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Column Name="Ngay" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="IDLine" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Association Name="Style_CTDT" Member="CTDTs" ThisKey="ID" OtherKey="IDStype" Type="CTDT" />
+      <Association Name="Line_Style" Member="Line" ThisKey="IDLine" OtherKey="IDLine" Type="Line" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CTDT" Member="CTDTs">
+    <Type Name="CTDT">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ngay" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="DVT" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="IDChiPhi" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="IDStype" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="SoLuong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="DTL1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTL2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTL3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTL4" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTL5" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTL6" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTL7" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTL8" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DTOverTime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MucTieu" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GioBD" Type="System.TimeSpan" DbType="Time" CanBeNull="true" />
+      <Association Name="Style_CTDT" Member="Style" ThisKey="IDStype" OtherKey="ID" Type="Style" IsForeignKey="true" />
+      <Association Name="ChiPhi_CTDT" Member="ChiPhi" ThisKey="IDChiPhi" OtherKey="IDChiPhi" Type="ChiPhi" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ChiPhi" Member="ChiPhis">
+    <Type Name="ChiPhi">
+      <Column Name="IDChiPhi" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Ngay" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="ChiPhi" Member="ChiPhi1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="DVT" Type="System.String" DbType="VarChar(3)" CanBeNull="true" />
+      <Column Name="TinhTrang" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="IDLine" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="NgayCong" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="MO" Type="System.Decimal" DbType="Decimal(18,2)" CanBeNull="true" />
+      <Association Name="ChiPhi_CTDT" Member="CTDTs" ThisKey="IDChiPhi" OtherKey="IDChiPhi" Type="CTDT" />
+      <Association Name="Line_ChiPhi" Member="Line" ThisKey="IDLine" OtherKey="IDLine" Type="Line" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Fac" Member="Facs">
+    <Type Name="Fac">
+      <Column Name="IDFac" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Fac_Line" Member="Lines" ThisKey="IDFac" OtherKey="IDFace" Type="Line" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Line" Member="Lines">
+    <Type Name="Line">
+      <Column Name="IDLine" Type="System.String" DbType="VarChar(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(20)" CanBeNull="true" />
+      <Column Name="IDFace" Type="System.String" DbType="VarChar(10)" CanBeNull="true" />
+      <Column Name="Status" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Association Name="Line_Style" Member="Styles" ThisKey="IDLine" OtherKey="IDLine" Type="Style" />
+      <Association Name="Line_ChiPhi" Member="ChiPhis" ThisKey="IDLine" OtherKey="IDLine" Type="ChiPhi" />
+      <Association Name="Fac_Line" Member="Fac" ThisKey="IDFace" OtherKey="IDFac" Type="Fac" IsForeignKey="true" />
+    </Type>
+  </Table>
+</Database>
