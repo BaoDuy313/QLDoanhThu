@@ -83,7 +83,7 @@ namespace QLDoanhThu
         {
             _dataHienThi = h.LayThongTinHienThi(_idChiPhi, idCTDT);
             lbLine.Text = _dataHienThi.NameLine;
-            lbStyle.Text = _dataHienThi.Style;
+            lbStyle.Text = _dataHienThi.Style + "    " + "Q'ty: " + _dataHienThi.SoluongStyle.ToString();
 
             _idCtdt = _dataHienThi.ID;
 

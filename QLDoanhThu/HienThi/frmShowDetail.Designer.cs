@@ -114,10 +114,10 @@
             // lbNgay
             // 
             this.lbNgay.AutoSize = true;
-            this.lbNgay.Font = new System.Drawing.Font("Segoe UI Semibold", 50F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbNgay.Location = new System.Drawing.Point(1158, 2);
+            this.lbNgay.Font = new System.Drawing.Font("Segoe UI Semibold", 44F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))));
+            this.lbNgay.Location = new System.Drawing.Point(1320, 7);
             this.lbNgay.Name = "lbNgay";
-            this.lbNgay.Size = new System.Drawing.Size(214, 89);
+            this.lbNgay.Size = new System.Drawing.Size(187, 78);
             this.lbNgay.TabIndex = 5;
             this.lbNgay.Text = "label1";
             // 
@@ -125,17 +125,17 @@
             // 
             this.lbLine.AutoSize = true;
             this.lbLine.Font = new System.Drawing.Font("Segoe UI Semibold", 50F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbLine.Location = new System.Drawing.Point(50, 2);
+            this.lbLine.Location = new System.Drawing.Point(5, 2);
             this.lbLine.Name = "lbLine";
-            this.lbLine.Size = new System.Drawing.Size(214, 89);
+            this.lbLine.Size = new System.Drawing.Size(233, 89);
             this.lbLine.TabIndex = 4;
-            this.lbLine.Text = "label1";
+            this.lbLine.Text = "LINE 0";
             // 
             // lbStyle
             // 
             this.lbStyle.AutoSize = true;
             this.lbStyle.Font = new System.Drawing.Font("Segoe UI Semibold", 50F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbStyle.Location = new System.Drawing.Point(381, 3);
+            this.lbStyle.Location = new System.Drawing.Point(270, 3);
             this.lbStyle.Name = "lbStyle";
             this.lbStyle.Size = new System.Drawing.Size(214, 89);
             this.lbStyle.TabIndex = 3;
@@ -144,17 +144,17 @@
             // lbGio
             // 
             this.lbGio.AutoSize = true;
-            this.lbGio.Font = new System.Drawing.Font("Arial", 36F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbGio.Location = new System.Drawing.Point(1628, 4);
+            this.lbGio.Font = new System.Drawing.Font("Arial", 32F, System.Drawing.FontStyle.Italic);
+            this.lbGio.Location = new System.Drawing.Point(1645, 4);
             this.lbGio.Name = "lbGio";
-            this.lbGio.Size = new System.Drawing.Size(154, 55);
+            this.lbGio.Size = new System.Drawing.Size(138, 50);
             this.lbGio.TabIndex = 2;
             this.lbGio.Text = "label1";
             // 
             // separatorControl1
             // 
             this.separatorControl1.LineOrientation = System.Windows.Forms.Orientation.Vertical;
-            this.separatorControl1.Location = new System.Drawing.Point(1077, 0);
+            this.separatorControl1.Location = new System.Drawing.Point(1239, 0);
             this.separatorControl1.Name = "separatorControl1";
             this.separatorControl1.Size = new System.Drawing.Size(75, 93);
             this.separatorControl1.TabIndex = 1;
@@ -970,7 +970,7 @@
             this.label16.ForeColor = System.Drawing.Color.Red;
             this.label16.Location = new System.Drawing.Point(1861, 255);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(86, 116);
+            this.label16.Size = new System.Drawing.Size(85, 116);
             this.label16.TabIndex = 7;
             this.label16.Text = "1";
             // 

@@ -28,5 +28,6 @@ namespace BUS
         public TimeSpan? GioBD { get; set; }
         public decimal? MO { get; set; }
         public int? MucTieu { get; set; }
+        public int? SoluongStyle { get; set; }
     }
 }

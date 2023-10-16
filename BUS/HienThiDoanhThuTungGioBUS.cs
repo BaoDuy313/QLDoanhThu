@@ -73,7 +73,8 @@ namespace BUS
                              SoNgayConLai = (int)SoNgayConLai(idChiPhi),
                              GioBD = x.GioBD,
                              MucTieu = x.MucTieu,
-                             MO = c.MO   //Update 2023
+                             MO = c.MO,   //Update 2023
+                             SoluongStyle = s.SoLuong  //Update 2023
                          }).SingleOrDefault();
             return query;
         }
